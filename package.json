@@ -22,7 +22,7 @@
     "forever-monitor": "^1.5.2",
     "voicemail-auth": "git://github.com/asterisk/node-voicemail-auth",
     "voicemail-config": "git://github.com/asterisk/node-voicemail-config",
-    "voicemail-data": "git://github.com/asterisk/node-voicemail-data",
+    "voicemail-data": "git://github.com/voxoco/node-voicemail-data",
     "voicemail-fsm": "git://github.com/asterisk/node-voicemail-fsm",
     "voicemail-logging": "git://github.com/asterisk/node-voicemail-logging",
     "voicemail-mailbox": "git://github.com/asterisk/node-voicemail-mailbox",
